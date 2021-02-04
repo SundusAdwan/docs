@@ -41,4 +41,4 @@ module.exports = {
     '**/tests/**/*.js'
   ],
   testLocationInResults: isActions
-}
+};

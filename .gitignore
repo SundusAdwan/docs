@@ -16,3 +16,5 @@ blc_output.log
 blc_output_internal.log
 /dist/
 broken_links.md
+temp_auto_push.bat
+temp_interactive_push.bat
